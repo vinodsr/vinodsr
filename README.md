@@ -55,19 +55,15 @@ I always want to make a difference
 
 
 [![NPM](https://img.shields.io/badge/dynamoman-blue?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dynamoman)
-
 [![NPM](https://img.shields.io/static/v1?label=&message=node-red-contrib-tuya-smart-device&color=blue&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/node-red-contrib-tuya-smart-device)
-
 [![CyanogenMod](https://img.shields.io/static/v1?label=&message=CyanogenMod&color=green&style=for-the-badge&logo=Android&logoColor=white)](https://github.com/CyanogenMod/android_vendor_cm/blob/cm-14.1/CHANGELOG.mkdn#:~:text=Common%3A%20%22Mark%20all%20read%22%20option%20in%20MMS%20%2D%20Vinod%20Surendran)
-
 [![serverless](https://img.shields.io/static/v1?label=&message=serverless&color=blue&style=for-the-badge&logo=npm&logoColor=white)](https://github.com/serverless/serverless/issues?q=author%3Avinodsr)
-
 [![node-http-proxy](https://img.shields.io/static/v1?label=&message=node-http-proxy&color=blue&style=for-the-badge&logo=npm&logoColor=white)](https://github.com/http-party/node-http-proxy/issues?q=author%3Avinodsr)
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinodsr)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vinodsr)
-[![vinodsr.dev](https://img.shields.io/badge/www.vinodsr.dev-white?style=for-the-badge&logo=About.me)](http://www.vinodsr.dev)
+[![vinodsr.dev](https://img.shields.io/badge/%F0%9F%8F%A0-www.vinodsr.dev-white?style=for-the-badge&labelColor=blue&color=fedcba&logoColor=violet)](http://www.vinodsr.dev)
 
 
