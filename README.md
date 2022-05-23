@@ -50,6 +50,16 @@ I always want to make a difference
     ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
     ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
+    
+## 👷 My Contributions
+
+
+[![NPM](https://img.shields.io/badge/dynamoman-blue?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dynamoman)
+
+[![NPM](https://img.shields.io/static/v1?label=&message=node-red-contrib-tuya-smart-device&color=blue&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/node-red-contrib-tuya-smart-device)
+
+[![CyanogenMod](https://img.shields.io/static/v1?label=&message=CyanogenMod&color=green&style=for-the-badge&logo=Android&logoColor=white)](https://github.com/CyanogenMod/android_vendor_cm/blob/cm-14.1/CHANGELOG.mkdn#:~:text=Common%3A%20%22Mark%20all%20read%22%20option%20in%20MMS%20%2D%20Vinod%20Surendran)
+
 
 ## 📫 How to reach me
 
