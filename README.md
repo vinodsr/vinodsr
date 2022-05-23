@@ -60,6 +60,9 @@ I always want to make a difference
 
 [![CyanogenMod](https://img.shields.io/static/v1?label=&message=CyanogenMod&color=green&style=for-the-badge&logo=Android&logoColor=white)](https://github.com/CyanogenMod/android_vendor_cm/blob/cm-14.1/CHANGELOG.mkdn#:~:text=Common%3A%20%22Mark%20all%20read%22%20option%20in%20MMS%20%2D%20Vinod%20Surendran)
 
+[![serverless](https://img.shields.io/static/v1?label=&message=serverless&color=blue&style=for-the-badge&logo=npm&logoColor=white)](https://github.com/serverless/serverless/issues?q=author%3Avinodsr)
+
+[![node-http-proxy](https://img.shields.io/static/v1?label=&message=node-http-proxy&color=blue&style=for-the-badge&logo=npm&logoColor=white)](https://github.com/http-party/node-http-proxy/issues?q=author%3Avinodsr)
 
 ## 📫 How to reach me
 
